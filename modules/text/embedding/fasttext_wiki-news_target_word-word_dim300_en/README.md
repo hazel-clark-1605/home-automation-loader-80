@@ -178,3 +178,4 @@
   - ```shell
     $ hub install fasttext_wiki-news_target_word-word_dim300_en==1.0.1
     ```
+

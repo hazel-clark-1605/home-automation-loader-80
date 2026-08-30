@@ -130,3 +130,4 @@
   - ```shell
     $ hub install pplcnet_x0_75_imagenet==1.0.0
     ```
+
